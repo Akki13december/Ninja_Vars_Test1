@@ -1,0 +1,1 @@
+# Ninja_Vars_Test1
